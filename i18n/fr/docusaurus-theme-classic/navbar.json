@@ -1,0 +1,10 @@
+{
+  "title": {
+    "message": "Figura Wiki",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Figura Logo",
+    "description": "The alt text of navbar logo"
+  }
+}

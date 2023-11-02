@@ -1,0 +1,102 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Start Here": {
+    "message": "Start Here",
+    "description": "The label for category Start Here in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Start Here.link.generated-index.description": {
+    "message": "These are the absolute basics you need to know to start using Figura.",
+    "description": "The generated-index page description for category Start Here in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorials": {
+    "message": "Tutorials",
+    "description": "The label for category Tutorials in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorials.link.generated-index.description": {
+    "message": "Tutorials for the Figura mod.",
+    "description": "The generated-index page description for category Tutorials in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Globals": {
+    "message": "Globals",
+    "description": "The label for category Globals in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Globals.link.generated-index.description": {
+    "message": "List of all the globals Figura has. These sections are under heavy construction.",
+    "description": "The generated-index page description for category Globals in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Misc Globals": {
+    "message": "Misc Globals",
+    "description": "The label for category Misc Globals in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Misc Globals.link.generated-index.description": {
+    "message": "A category for miscellaneous globals.",
+    "description": "The generated-index page description for category Misc Globals in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Action Wheel": {
+    "message": "Action Wheel",
+    "description": "The label for category Action Wheel in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Animations": {
+    "message": "Animations",
+    "description": "The label for category Animations in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Events": {
+    "message": "Events",
+    "description": "The label for category Events in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Keybinds": {
+    "message": "Keybinds",
+    "description": "The label for category Keybinds in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Matrices": {
+    "message": "Matrices",
+    "description": "The label for category Matrices in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Models": {
+    "message": "Models",
+    "description": "The label for category Models in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Nameplate": {
+    "message": "Nameplate",
+    "description": "The label for category Nameplate in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Particles": {
+    "message": "Particles",
+    "description": "The label for category Particles in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Player": {
+    "message": "Player",
+    "description": "The label for category Player in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Sounds": {
+    "message": "Sounds",
+    "description": "The label for category Sounds in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Textures": {
+    "message": "Textures",
+    "description": "The label for category Textures in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Vanilla Model": {
+    "message": "Vanilla Model",
+    "description": "The label for category Vanilla Model in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Vectors": {
+    "message": "Vectors",
+    "description": "The label for category Vectors in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.World": {
+    "message": "World",
+    "description": "The label for category World in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Enums": {
+    "message": "Enums",
+    "description": "The label for category Enums in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Enums.link.generated-index.description": {
+    "message": "All of Figura's enums.",
+    "description": "The generated-index page description for category Enums in sidebar tutorialSidebar"
+  }
+}

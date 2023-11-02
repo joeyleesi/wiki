@@ -30,7 +30,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: "en",
-    locales: ["en"],
+    locales: ["en", "fr"],
   },
 
   presets: [
@@ -65,7 +65,12 @@ const config = {
           alt: "Figura Logo",
           src: "img/logo.svg",
         },
-        items: [],
+        items: [
+          {
+            type: "localeDropdown",
+            position: "right",
+          },
+        ],
       },
       footer: {
         style: "dark",
