@@ -2,7 +2,7 @@
 // Note: type annotations allow type checking and IDEs autocompletion
 
 const lightCodeTheme = require("prism-react-renderer").themes.github;
-const darkCodeTheme = require("./src/utils/catppuccinMocha");
+const darkCodeTheme = require("./src/utils/catppuccinMocha").dark;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {

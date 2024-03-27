@@ -1,6 +1,6 @@
 import { themes, type PrismTheme } from "prism-react-renderer";
 
-export default {
+const mocha = {
   plain: {
     color: "#cdd6f4",
     backgroundColor: "#181825",
@@ -84,3 +84,5 @@ export default {
     },
   ],
 } satisfies PrismTheme;
+
+export default { dark: mocha };

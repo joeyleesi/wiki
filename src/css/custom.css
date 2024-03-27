@@ -26,13 +26,19 @@
   --ifm-color-primary-light: #f2f4fc;
   --ifm-color-primary-lighter: #ffffff;
   --ifm-color-primary-lightest: #ffffff;
-  --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.1);
+  --docusaurus-highlighted-code-line-bg: #585b70;
 }
 
 html[data-theme='dark'] {
   --ifm-background-color: #1e1e2e;
   --ifm-background-surface-color: #313244;
   --ifm-navbar-search-input-background-color: #45475a;
+  --ifm-table-border-color: #9399b2;
+  --ifm-code-background: #313244;
+}
+
+.footer--dark {
+    background-color: #313244;
 }
 
 .code-block-highlighted-line,
@@ -53,11 +59,11 @@ html[data-theme='dark'] {
 }
 
 [data-theme='dark'] .code-block-highlighted-line {
-  background-color: #ffffff10;
-  border-left-color: #ffffff80;
+  background-color: #585b7080;
+  border-left-color: #585b70;
 }
 
 .code-block-error-line {
-  background-color: #ff000020;
-  border-left-color: #ff000080;
+  background-color: #f38ba830;
+  border-left-color: #f38ba8;
 }
