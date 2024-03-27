@@ -14,6 +14,7 @@
   --ifm-color-primary-lighter: #359962;
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 95%;
+  --ifm-hr-height: 3px;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
@@ -26,6 +27,7 @@
   --ifm-color-primary-light: #f2f4fc;
   --ifm-color-primary-lighter: #ffffff;
   --ifm-color-primary-lightest: #ffffff;
+  --ifm-hr-background-color: var(--ifm-color-primary);
   --docusaurus-highlighted-code-line-bg: #585b70;
 }
 
@@ -34,7 +36,15 @@ html[data-theme='dark'] {
   --ifm-background-surface-color: #313244;
   --ifm-navbar-search-input-background-color: #45475a;
   --ifm-table-border-color: #9399b2;
-  --ifm-code-background: #313244;
+  --ifm-code-background: #45475a;
+  --blue: #89b4fa;
+  --ifm-color-info-contrast-background: color-mix(in hsl, var(--blue) 30%, var(--ifm-background-color));
+  --ifm-color-info-dark: color-mix(in hsl, var(--blue) 60%, var(--ifm-background-color));
+  --ifm-color-warning-contrast-background:    hsl(41, 86%, 33%);
+  --ifm-color-warning-dark: hsl(41, 86%, 23%);
+  --ifm-color-success-contrast-background:    hsl(115, 54%, 16%);
+  --ifm-color-success-dark: hsl(115, 54%, 12%);
+
 }
 
 .footer--dark {
